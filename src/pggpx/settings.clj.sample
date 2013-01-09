@@ -1,0 +1,8 @@
+(ns pggpx.settings)
+
+(def marks-DB {
+	:host "huge.postgresql.com"
+	:port 5432
+	:db "my-database"
+	:user "username"
+	:password "password"})
